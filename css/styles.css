@@ -1,0 +1,274 @@
+body{
+  margin: 0;
+  text-align: center;
+  background-color: #FAF7F0;
+}
+
+#title{
+  background-color: #66BFBF;
+  height: 240px;
+  width: 100%;
+}
+
+.published{
+  text-align: center;
+}
+
+.Papers{
+text-align: left;
+line-height: 2;
+}
+
+.icon{
+  text-align: left;
+  }
+
+  .contact{
+    text-align: left;
+    font-size: 120%;
+  }
+
+.wri{
+  text-align: right;
+}
+
+.skills{
+  width: 60%;
+  margin: auto;
+}
+
+.stars{
+  width: 30%;
+  margin: auto;
+}
+
+.work{
+  width: 90%;
+  margin: auto;
+  text-align: left;
+}
+
+.work-place{
+  font-size: 120%;
+}
+
+.line{
+  height: 2rem;
+}
+
+.text{
+  text-align: left;
+  font-size: 120%;
+}
+
+.star{
+  text-align: left;
+  font-size: 120%;
+}
+
+.profile{
+  width: 220px;
+  margin-right:100px;
+}
+.container-fluid{
+  padding:40px 195px 90px 150px;
+}
+
+h1{
+  font-family: Montserrat;
+  font-weight: 800;
+  font-size: 4rem;
+line-height: 1.5;
+  margin-bottom: 70px;
+}
+
+
+
+
+
+boby{
+font-family: 'Montserrat';
+color: white;
+}
+
+.top-container{
+  margin: 110px auto 150px auto;
+}
+
+.title-p{
+  width: 100%;
+  text-align: center;
+  font-size: 130%
+}
+
+.navbar{
+  padding: 0 0 4.5rem;
+
+}
+
+.Download-button {
+  padding: 10px 10px 10px 10;
+  margin-right: 15px;
+}
+
+
+
+.nav-item{
+padding: 0 15px;
+}
+
+.nav-link active {
+  color: #fff;
+}
+
+.nav-link {
+  font-size: 1.5rem;
+  font-family: Montserrat;
+  font-weight: 100;
+  color: #fff;
+}
+
+.navbar-brand{
+font-family: 'Merienda', cursive;
+font-size: 3rem;
+color: #fff;
+padding-left: 0;
+margin-left: 0;
+}
+
+
+h1{
+  margin: 0;
+  color: #66BFBF;
+
+}
+
+h2{
+  color:  #66BFBF;
+  margin:80px auto 80px auto;
+  font-size: 250%
+}
+
+h3{
+  color:  #66BFBF;
+  line-height: 4;
+}
+
+
+
+img{
+  width: 12%;
+  margin: 20px auto  100px auto;
+}
+
+.lec{
+  width: 80%;
+  margin: auto;
+}
+
+p{
+  width:35%;
+  margin: 50px auto 50px auto;
+  text-align: left;
+  font-size: 120%;
+}
+
+.mytable{
+  margin: 10px auto;
+  text-align: left;
+}
+
+td{
+  font-size: 120%;
+}
+
+
+hr{
+  width: 20%;
+  border: dotted #65647C 8px;
+  border-bottom: none;
+  margin-left: auto;
+  margin: 100px auto 100px auto;
+}
+
+.lang{
+  text-align: center;
+  font-size: 120%
+}
+
+.contact{
+  width: 20%
+  font-size: 120%;
+}
+
+.hrr{
+  width: 35%;
+  border: solid;
+  border-bottom: none;
+  margin: 50px auto 50px auto;
+  border-width: thin;
+}
+
+.edu{
+  text-align: center;
+}
+
+
+.edu-img{
+  text-align: center;
+}
+
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  margin: 70px auto auto auto;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+
+.bottom-container{
+  margin: 50px auto 50px auto;
+  background-color: #66BFBF;
+  font-family: 'Montserrati', sans-serif;
+  padding: 50px 0 20px;
+  }
+
+  .contact-info{
+  margin: 7px auto;
+
+  }
+
+a{
+  color: #256D85;
+  font-size: 1.25rem;
+  margin: 10px 20px;
+}
+
+a:hover{
+  color: #7FE9DE;
+}
+
+.copyright{
+  color: #EAF6F6;
+  font-size: 0.8rem;
+}
